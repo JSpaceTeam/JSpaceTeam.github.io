@@ -13,7 +13,7 @@ Assuming that you have already setup the dev environment for the old tech stack 
   - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
   - [Get started with Hello World](https://guides.github.com/activities/hello-world/)
   - [Other great guides...](https://guides.github.com)
-3. Setup dev environment. See this  [Wiki page](https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#setup-devenv) for detailed instructions.
+3. Setup dev environment. See this [Wiki page](https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#setup-devenv) for detailed instructions. 
 =======================
 
 *Learn more about new Space teck stack: [click here](http://jspaceteam.github.io/shadowfax-docbook)*
