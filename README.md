@@ -1,6 +1,6 @@
-JSpaceTeam.github.io
+#JSpaceTeam.github.io
 ====================
-This project contains scripts and Wiki instructions to set up the development environment for the new tech stack for JunosSpace. You can setup the dev environment for the new tech stack on the same CentOS node where the old tech stack (JBoss/MySQL) resides or on a separate node. JBoss and MySQL are the main components of the old tech stack. Nginx and NodeJS are the main components of the new tech stack (for now). The following diagram shows how they work together in the dev environment.
+This project contains scripts and Wiki instructions to set up the development environment for the new tech stack for JunosSpace. You can setup the dev environment for the new tech stack on the same CentOS node where the old tech stack (JBoss/MySQL) resides or on a separate node. JBoss and MySQL are the main components of the old tech stack. Nginx and NodeJS are the main components of the new tech stack (for now). The following diagram shows how they work together in the dev environment. 
 
 <img src="https://github.com/JSpaceTeam/JSpaceTeam.github.io/raw/master/images/arch.png"/>
 
@@ -14,6 +14,7 @@ Assuming that you have already setup the dev environment for the old tech stack 
   - [Get started with Hello World](https://guides.github.com/activities/hello-world/)
   - [Other great guides...](https://guides.github.com)
 3. Setup dev environment. See this  [Wiki page](https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#setup-devenv) for detailed instructions.
+
 =======================
 
 *Learn more about new Space teck stack: [click here](http://jspaceteam.github.io/shadowfax-docbook)*
