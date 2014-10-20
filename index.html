@@ -11,6 +11,7 @@
     <title>Get Started</title>
   </head>
 
+
   <body>
 
     <!-- HEADER -->
@@ -27,95 +28,39 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+      
+<article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
+<a name="user-content-jspaceteamgithubio" class="anchor" href="#jspaceteamgithubio" aria-hidden="true"><span class="octicon octicon-link"></span></a>JSpaceTeam.github.io</h1>
+
+<h1></h1>
+
+<p>This project contains scripts and Wiki instructions to set up the development environment for the new tech stack for JunosSpace. You can setup the dev environment for the new tech stack on the same CentOS node where the old tech stack (JBoss/MySQL) resides or on a separate node. JBoss and MySQL are the main components of the old tech stack. Nginx and NodeJS are the main components of the new tech stack (for now). The following diagram shows how they work together in the dev environment. </p>
+
+<p><a href="https://github.com/JSpaceTeam/JSpaceTeam.github.io/raw/master/images/arch.png" target="_blank"><img src="https://github.com/JSpaceTeam/JSpaceTeam.github.io/raw/master/images/arch.png" style="max-width:100%;"></a></p>
+
+<p>We are following <a href="http://nvie.com/posts/a-successful-git-branching-model/">nvie.com</a> branching model. Here is the <a href="https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Branching-Model">wiki page</a> on how to follow this model in GitHub. Please read it before developing features or fixing bugs.</p>
+
+<p>Assuming that you have already setup the dev environment for the old tech stack (JBoss, etc), here are the major steps to setup the dev environment for the new tech stack.</p>
+
+<ol class="task-list">
+<li>Install Nginx. See this <a href="https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#install-nginx">Wiki page</a> for detailed instructions.</li>
+<li>Install and setup git. See this <a href="https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#setup-git">Wiki page</a> for detailed instructions. It is strongly recommended that you go through the following GitHub guides if you are a novice GitHub user.
+
+<ul class="task-list">
+<li><a href="https://guides.github.com/introduction/flow/">Understanding the GitHub Flow</a></li>
+<li><a href="https://guides.github.com/activities/hello-world/">Get started with Hello World</a></li>
+<li><a href="https://guides.github.com">Other great guides...</a></li>
+</ul>
+</li>
+<li>Setup dev environment. See this  <a href="https://github.com/JSpaceTeam/JSpaceTeam.github.io/wiki/Getting-Started#setup-devenv">Wiki page</a> for detailed instructions.</li>
+</ol>
+
+<h1></h1>
+
+<p><em>Learn more about new Space teck stack: <a href="http://jspaceteam.github.io/shadowfax-docbook">click here</a></em></p>
+</article>
        
-<a name='install-nginx'/>
-###Install Nginx
 
-If you are running CentOS 5.x, you can running following commands to install Nginx (Note: you need to login as root first):
-```
-$ cat <<EOF>/etc/yum.repos.d/nginx.repo
-[nginx]
-name=nginx repo
-baseurl=http://nginx.org/packages/centos/5/x86_64/
-gpgcheck=0
-enabled=1
-EOF
-```
-```
-$ yum -y install nginx
-```
-```
-$ /sbin/chkconfig nginx on
-```
-```
-$ /sbin/service nginx start
-```
-
-If you are running CentOS 6.x, you can running following commands to install Nginx:
-```
-$ cat <<EOF>/etc/yum.repos.d/nginx.repo
-[nginx]
-name=nginx repo
-baseurl=http://nginx.org/packages/centos/6/x86_64/
-gpgcheck=0
-enabled=1
-EOF
-```
-```
-$ yum -y install nginx
-```
-```
-$ /sbin/chkconfig nginx on
-```
-```
-$ /sbin/service nginx start
-```
-
-<a name='setup-git'/>
-###Install and configure Git
-
-The code for the new tech stack are maintained in GitHub private repositories. We want to take advantage of GitHub Wiki and other collaboration tools in addition to Git. 
-
-First, you need to install Git before you can pull and push code changes to the GitHub. Git 1.7 or above is recommended to access GitHub. 
-
-On CentOS 5, run the following commands to install latest git (Note: you need to login as root first)
-```
-$ wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el5.rf.x86_64.rpm
-$ rpm --import http://apt.sw.be/RPM-GPG-KEY.dag.txt
-$ yum -y localinstall rpmforge-release-0.5.3-1.el5.rf.x86_64.rpm
-$ yum -y install --enablerepo=rpmforge-extras git
-```
-On CentOS 6, run the following commands:
-```
-$ wget http://pkgs.repoforge.org/rpmforge-release/rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
-$ rpm --import http://apt.sw.be/RPM-GPG-KEY.dag.txt
-$ yum -y localinstall rpmforge-release-0.5.3-1.el6.rf.x86_64.rpm
-$ yum -y install --enablerepo=rpmforge-extras git
-```
-
-Check your git version. It should be greater than 1.7.1 (Current version is 1.7.12)
-```
-$ git --version
-```
-Assuming that you have registered a GitHub account at http://github.com, here are the steps to set up Git to pull or push code from GitHub.
- 
-  ```
-  $ git config --global user.name "john"
-  $ git config --global user.email "<your github email from Step 1>"
-  ```
-
-Password cache:
-  
-  ```
-  $ git config --global credential.helper cache
-  $ git config --global credential.helper 'cache --timeout=360000'
-  ```
-  
-  
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
       </section>
     </div>
 
