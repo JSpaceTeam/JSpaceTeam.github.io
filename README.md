@@ -18,4 +18,3 @@ Assuming that you have already setup the dev environment for the old tech stack 
 =======================
 
 *Learn more about new Space teck stack: [click here](http://jspaceteam.github.io/shadowfax-docbook)*
-
