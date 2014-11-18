@@ -29,7 +29,8 @@ Weekly progress report
 5. Investigate 'Yang' specification, separate yang files for device. Write some templates for Device Notification, RPC. 
 (Shin Ma) We are new to 'Yang', maybe won't be finished.
 
-** Need Help **
+
+**Need Help**
 
 1. Need to confirm with SlipStream when will them provide the newest main shell. 
 Current version don't have breadcrumb. Will they support it or will the breadcrumb be implemented by ourselves?
