@@ -7,7 +7,7 @@ Generating the ApiDummy.scala and MappingDummy.scala.
 -Facing this issue from a template perspective.
 
 **Scenario**:
-
+```
 object DeviceQueryDummy extends YangMappingQueryDSL {
   mapping(_ => new Device)
   select("device.dm_id") mapping "id"
@@ -19,5 +19,5 @@ object DeviceQueryDummy extends YangMappingQueryDSL {
     (apiCtx, result) =>
   }
 }
-
+```
 How to identify when to make a cascade and when to do mapping like "system/hostname" while parsing.
