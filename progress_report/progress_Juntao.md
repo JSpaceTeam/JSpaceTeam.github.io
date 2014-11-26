@@ -6,12 +6,13 @@ Weekly progress report
 
 **Completed work**
 
-1. Refactored sbt common configurations from each sub-project to a centralized file, to make sub projects more identical.
+1. Refactored sbt common configurations from each sub-project to a centralized file, to make sub projects more concise.
 
 2. Read Slipstream's document and knew about all infrastructures it provides.
 
 3. Testing framework for client codes, including GUI test, code coverage. Need much more work to make them work together.
-   RobotFramework(Testing framework), Selenium2Library(Browser running, including headless browser, PhantomJS), and blanket.js(Code coverage).
+   RobotFramework(Testing framework), Selenium2Library(Browser running, including headless browser, PhantomJS), and blanket.js(Code coverage). 
+4. Readme generator from JSDoc comments. (90%) https://github.com/jnpr-juntaod/shadowfax/blob/develop/test.md
 
 
 **Next week's plan**
