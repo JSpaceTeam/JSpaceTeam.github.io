@@ -4,7 +4,7 @@ Client Progress report
 **Infrastructure**
 
 | Task                   | Code Review/Readme    | Complete | Test Case  | Code Coverage |
-| -----------------------|:---------------------:|:--------:|:----------:|:-------------:|
+|:-----------------------|:---------------------:|:--------:|:----------:|:-------------:|
 | Notification           |          yes          |    0%    |     No     |      0%       |
 |Slipstream shell/integration|          yes          |    0%    |     No     |      0%       |
 |Pluggable framework changes to Slipstream|          yes          |    0%    |     No     |      0%       |
@@ -14,26 +14,29 @@ Client Progress report
 |Local storage        |          yes          |    0%    |     No     |      0%       |
 |GUI automation test support|          yes          |    0%    |     No     |      0%       |
 
+
 **Space Template**
 
 | Template               | Code Review/Readme    | Complete | Test Case  | Code Coverage |
-| -----------------------|:---------------------:|:--------:|:----------:|:-------------:|
+|:-----------------------|:---------------------:|:--------:|:----------:|:-------------:|
 | js-ui-base/landingpage |          yes          |    0%    |     No     |      0%       |
+
 
 **Space Common Widget**
 
 | Widget            | Code Review/Readme    | Complete | Test Case  | Code Coverage |
-| ------------------|:---------------------:|:--------:|:----------:|:-------------:|
+|:------------------|:---------------------:|:--------:|:----------:|:-------------:|
 | Breadcrumb        |          no           |    0%    |     No     |      0%       |
 | ColumnSelector    |          no           |    0%    |     No     |      0%       |
 | filterbar         |          no           |    0%    |     No     |      0%       |
 | naviagtiontree    |          no           |    0%    |     No     |      0%       |
 | GlobalSearch      |          no           |    0%    |     No     |      0%       |
  
+
 **Basic Component**
 
 | Component         | Code Review/Readme    | Complete | Test Case  | Code Coverage |
-| ------------------|:---------------------:|:--------:|:----------:|:-------------:|
+|-------------------|:---------------------:|:--------:|:----------:|:-------------:|
 | Base              |          yes          |    0%    |     No     |      0%       |
 | Booklet           |          yes          |    0%    |     No     |      0%       |
 | Button            |          yes          |    0%    |     No     |      0%       |
