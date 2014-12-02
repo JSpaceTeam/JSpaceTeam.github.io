@@ -1,11 +1,36 @@
-Component Progress report
+Client Progress report
 ======================
 
-**Widget**
+**Infrastructure**
 
+| Task                   | Code Review/Readme    | Complete | Test Case  | Code Coverage |
+| -----------------------|:---------------------:|:--------:|:----------:|:-------------:|
+| Notification           |          yes          |    0%    |     No     |      0%       |
+|Slipstream shell/integration|          yes          |    0%    |     No     |      0%       |
+|Pluggable framework changes to Slipstream|          yes          |    0%    |     No     |      0%       |
+|Access control support|          yes          |    0%    |     No     |      0%       |
+|Validation           |          yes          |    0%    |     No     |      0%       |
+|Preferences          |          yes          |    0%    |     No     |      0%       |
+|Local storage        |          yes          |    0%    |     No     |      0%       |
+|GUI automation test support|          yes          |    0%    |     No     |      0%       |
 
+**Space Template**
+
+| Template               | Code Review/Readme    | Complete | Test Case  | Code Coverage |
+| -----------------------|:---------------------:|:--------:|:----------:|:-------------:|
+| js-ui-base/landingpage |          yes          |    0%    |     No     |      0%       |
+
+**Space Common Widget**
+
+| Widget            | Code Review/Readme    | Complete | Test Case  | Code Coverage |
+| ------------------|:---------------------:|:--------:|:----------:|:-------------:|
+| Breadcrumb        |          no           |    0%    |     No     |      0%       |
+| ColumnSelector    |          no           |    0%    |     No     |      0%       |
+| filterbar         |          no           |    0%    |     No     |      0%       |
+| naviagtiontree    |          no           |    0%    |     No     |      0%       |
+| GlobalSearch      |          no           |    0%    |     No     |      0%       |
  
-**Component**
+**Basic Component**
 
 | Component         | Code Review/Readme    | Complete | Test Case  | Code Coverage |
 | ------------------|:---------------------:|:--------:|:----------:|:-------------:|
