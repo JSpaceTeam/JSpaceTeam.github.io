@@ -1,16 +1,19 @@
-**11/25/2014**
+**12/02/2014**
 
-1. Convert Contrail vnc_cfg.xsd to YANG
-2. Set up Contrail dev env and understand their code generator
-3. Synced up with SlipStream team on RBAC
-4. RBAC brainstorm meeting on YANG generated REST API
+1. ER diagram of Contrail data model (vnc_cfg.xsd)
+2. Completed the conversion of Contrail data model xsd to YANG and shared with Kent, Contrail, and ProjectQ team
+3. Worked with Kent on the slide deck about high level migration strategy to JUNOS IQ platform.
 
 **Next Week**
 
-1. Work with Kent to come up design on supporting Contrain data model in YANG
+1. Finalizd the YANG mapping of Contrail data model semantics with Contrail team and ProjectQ team
+2. TOI to the team on writing YANG model with Contrail data model semantics
+3. RESTCONF mapping and work with Shin Ma on the defining the YANG model needed for device ILP
 
-**Action list:**
+**Need help:**
 
-1. Write up meeting notes on RBAC brainstorm meeting
-2. Write up meeting notes on SlipStream
-3. Write up meeting notes with Contrail
+**Action Items**
+
+1. Write up meeting notes on RBAC brainstorm meeting (overdue)
+2. Write up meeting notes on SlipStream (overdue)
+3. Write up meeting notes with Contrail (overdue)
