@@ -1,6 +1,29 @@
 Weekly progress report
 ======================
 
+ Until 3/12/2014
+-----------------------
+
+**Completed work**
+
+1. Completed the 'Readme Tool', and it would generate readme files for all components, widgets, templates and tasks.
+
+2. We had a client side task list and discussed the features' owners. https://github.com/JSpaceTeam/JSpaceTeam.github.io/blob/master/progress_report/client_progress.md
+
+3. The gui testing and code coverage tool were almost finished. There are some small issues to be solved.
+
+**Next week's plan**
+
+1. Fill the client_progress form. The estimated time for phase 1 release (all client codes including common widgets, code review, readmes, test cases, code coverage should be done) is 1/31/2015.
+
+2. Complete the gui tesing tool and start writing client test cases. 
+
+3. Code review and finish all readmes and test cases for reviewed codes. 
+
+**Need Help**
+
+No
+
  Until 25/11/2014
 -----------------------
 
