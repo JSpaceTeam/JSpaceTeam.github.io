@@ -1,6 +1,23 @@
 Weekly progress report
 ======================
 
+ Until 04/12/2014
+-----------------------
+
+**Completed work**
+
+1. shadowfax/gird code review and generate readme.md
+2. Impleament Filter features: expand label to edit mode, focus on first item (column name), and use space to jump to next item; In edit mode, press enter to conver to label; Backspace key support; 
+
+**Next week's plan**
+
+1. Make filter more stable, add features: TAG support; Keyword support; AND OR condition support 
+2. Continue code review and add readme.md for other component
+
+**Need Help**
+
+
+
  Until 25/11/2014
 -----------------------
 
