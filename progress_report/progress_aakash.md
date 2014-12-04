@@ -21,3 +21,9 @@ object DeviceQueryDummy extends YangMappingQueryDSL {
 }
 ```
 How to identify when to make a cascade and when to do mapping like "system/hostname" while parsing.
+
+**Update 12/3/2014**
+
+Resolved earlier doubts and proceeding with the *dummy.scala template implementations.
+
+
