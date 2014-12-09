@@ -26,4 +26,9 @@ How to identify when to make a cascade and when to do mapping like "system/hostn
 
 Resolved earlier doubts and proceeding with the *dummy.scala template implementations.
 
+**Update 12/8/2014**
+
+Completed the *dummy.scala implementations.
+Current generating dummy data for the yang files.
+
 
