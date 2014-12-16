@@ -1,3 +1,17 @@
+**12/16/2014**
+
+1. Finished evaluation of JNC from tail-f and presented to both US team and china team.
+2. Start looking at NACM (Netconf Access Control Model: RFC-6536 [https://tools.ietf.org/html/rfc6536])
+
+**Next Week**
+
+1. Update js-easy-rest SBT build to generate java code via JNC
+2. Continue mapping NACM to Space ACM and Contrail ACM 
+
+**Need help:**
+
+========================================
+
 **12/08/2014**
 
 1. Mapped RESTCONF GET methods on vnc_cfg.yang
