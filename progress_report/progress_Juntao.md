@@ -1,6 +1,29 @@
 Weekly progress report
 ======================
 
+ Until 16/12/2014
+-----------------------
+
+**Completed work**
+
+1. Completed gui side test framework.
+
+2. Tried to set up CI env and all details are clear now.
+
+3. Refactored navigation codes to work together with EventBus.
+
+**Next week's plan**
+
+1. Move gui codes to submodules of Shadowfax. Move all client test cases from Js-easy-rest to each GUI module.
+
+2. Set up CI env. Make gui codes to depend on Maven module of js-easy-rest. So CI env can be easily set up.
+
+3. Try to finish code review and test cases for "loader" and "mvc" parts of Shadowfax.
+
+**Need Help**
+
+No
+
  Until 3/12/2014
 -----------------------
 
