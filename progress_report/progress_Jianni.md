@@ -1,5 +1,21 @@
 Weekly progress report
 ======================
+Until 17/12/2014
+-----------------------
+
+**Completed work**
+
+1. shadowfax/gird code add metadata class and generate readme.md
+2. Impleament Filter features: expand label to edit control; In edit mode, press enter to conver to label; Backspace key to expand last label and covert current edit control to label; Left/Right Arrow key support are also added. 
+
+**Next week's plan**
+
+1. Make filter more stable, add features: TAG support; Keyword support; AND OR condition support 
+2. Continue code review and add readme.md for other component
+3. Research and implement feature of jnc.py to generate REST api.
+
+**Need Help**
+
 
  Until 04/12/2014
 -----------------------
