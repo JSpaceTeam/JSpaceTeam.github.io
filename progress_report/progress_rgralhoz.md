@@ -1,4 +1,7 @@
-**12/03/2014**
+###12/16/2014
+Still working on 14.1R2 FRS blockers
+
+###12/03/2014
 
 No time work on it due to 14.1R2 FRS blockers
 
@@ -11,7 +14,7 @@ Maybe still working on FRS blockers
 - Study current Shadowfax startup code, dependencies, ui tech stack in general 
 
 
-**11/25/2014**
+###11/25/2014
 
 No time work on it due to 14.1R2 FRS blockers
 
