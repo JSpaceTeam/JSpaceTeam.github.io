@@ -1,3 +1,15 @@
+###02/10/2015
+**Completed work**
+
+1. `Password input` component [completed](https://github.com/JSpaceTeam/shadowfax/issues/70) -  `strength meter` added and issues fixed. 
+
+**Next Week**
+
+1. Add `Input_password` to login page [task](https://github.com/JSpaceTeam/shadowfax/issues/140)
+2. Choose other widgets to finish
+
+
+
 ###02/03/2015
 **Completed work**
 
