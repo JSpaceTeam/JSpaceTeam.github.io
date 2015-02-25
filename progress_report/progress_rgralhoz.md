@@ -1,3 +1,17 @@
+###02/17/2015
+**Completed work**
+
+1. Add `Input_password` to login page - [#140](https://github.com/JSpaceTeam/shadowfax/issues/140)
+2. Add favicon to login and index.html - [#161](https://github.com/JSpaceTeam/shadowfax/issues/161)
+3. Add frame buster code and set `X-Frame-Options` to `Deny` to prevent XFS vulnerability - [#162](https://github.com/JSpaceTeam/shadowfax/issues/162)
+
+**Next Week**
+
+1. Make filter navigation work [#167](https://github.com/JSpaceTeam/shadowfax/issues/167) 
+2. Components: Input AutoComplete [#43](https://github.com/JSpaceTeam/shadowfax/issues/43) 
+3. Components: Input Typeahead [#44](https://github.com/JSpaceTeam/shadowfax/issues/44) 
+
+
 ###02/10/2015
 **Completed work**
 
