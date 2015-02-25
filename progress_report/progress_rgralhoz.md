@@ -1,3 +1,13 @@
+###02/24/2015
+**Completed work**
+
+1. Components - Input AutoComplete [#43](https://github.com/JSpaceTeam/shadowfax/issues/43): static and dynamic autocomplete, improved samples, adding highlighting feature and many fixes
+
+
+**Next Week**
+
+1. 15.1 issues and app support
+
 ###02/17/2015
 **Completed work**
 
@@ -10,6 +20,8 @@
 1. Make filter navigation work [#167](https://github.com/JSpaceTeam/shadowfax/issues/167) 
 2. Components: Input AutoComplete [#43](https://github.com/JSpaceTeam/shadowfax/issues/43) 
 3. Components: Input Typeahead [#44](https://github.com/JSpaceTeam/shadowfax/issues/44) 
+
+
 
 
 ###02/10/2015
