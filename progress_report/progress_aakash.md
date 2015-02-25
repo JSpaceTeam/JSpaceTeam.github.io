@@ -31,4 +31,7 @@ Resolved earlier doubts and proceeding with the *dummy.scala template implementa
 Completed the *dummy.scala implementations.
 Current generating dummy data for the yang files.
 
+**Update 2/24/2015**
+
+Jndi lookup for DeviceManagerBean to Space 1.0 was successful. Included implementation in DeviceApiImpl for "getAllDevices" in js-ems project (pending testing).
 
